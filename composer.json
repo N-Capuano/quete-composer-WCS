@@ -1,0 +1,18 @@
+{   
+    "description": "",
+    "name": "nicolas/composer",
+    "authors": [
+        {
+            "name": "N-Capuano",
+            "email": "quartzhorn.pro@gmail.com"
+        }
+        
+    ],
+    "require": {},
+    
+        "autoload": {
+            "psr-4": {"App\\Wcs\\": "src/Wcs/"}
+        
+        }
+}
+
